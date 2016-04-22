@@ -1,5 +1,5 @@
 {
-  "name": "azure-quickstart-templates",
+  "name": "fuzzy-journey",
   "version": "1.0.0",
   "description": "A package file for developer depenedencies when testing templates",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Azure/azure-quickstart-templates.git"
+    "url": "git+https://github.com/simongdavies/fuzzy-journey.git"
   },
   "author": "sedouard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Azure/azure-quickstart-templates/issues"
+    "url": "https://github.com/simongdavies/fuzzy-journey/issues"
   },
-  "homepage": "https://github.com/Azure/azure-quickstart-templates#readme",
+  "homepage": "https://github.com/simongdavies/fuzzy-journey/#readme",
   "devDependencies": {
     "debug": "^2.2.0",
     "grunt": "^0.4.5",
